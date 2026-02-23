@@ -14,5 +14,6 @@ dependencies = [
     "langchain-mistralai>=1.1.1",
     "langgraph>=1.0.7",
     "langgraph-supervisor>=0.0.31",
+    "psycopg[binary,pool]>=3.3.3",
     "wikipedia>=1.4.0",
 ]
